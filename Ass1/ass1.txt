@@ -1,0 +1,304 @@
+1 a) Results: ['958 Kbits/sec', '1.53 Mbits/sec']
+
+Results: ['64K', '64.0 Kbits/sec', '64.0 Kbits/sec']
+Results: ['128K', '128 Kbits/sec', '128 Kbits/sec']
+Results: ['256K', '256 Kbits/sec', '256 Kbits/sec']
+Results: ['512K', '512 Kbits/sec', '512 Kbits/sec']
+Results: ['1024K', '975 Kbits/sec', '975 Kbits/sec']
+Results: ['2048K', '973 Kbits/sec', '2.05 Mbits/sec']
+Results: ['4096K', '973 Kbits/sec', '4.10 Mbits/sec']
+
+
+2)
+
+
+	1) tcp Results: ['479 Kbits/sec', '950 Kbits/sec']
+		udp
+			 Results: ['64K', '64.0 Kbits/sec', '64.0 Kbits/sec']
+			 Results: ['128K', '128 Kbits/sec', '128 Kbits/sec']
+			 Results: ['256K', '256 Kbits/sec', '256 Kbits/sec']
+			 Results: ['512K', '489 Kbits/sec', '489 Kbits/sec']
+			 Results: ['1024K', '487 Kbits/sec', '1.02 Mbits/sec']
+			 Results: ['2048K', '487 Kbits/sec', '2.05 Mbits/sec']
+			 Results: ['4096K', '487 Kbits/sec', '4.10 Mbits/sec']
+
+
+	2)Results: ['479 Kbits/sec', '911 Kbits/sec']
+	
+		udp
+			Results: ['64K', '64.0 Kbits/sec', '64.0 Kbits/sec']
+		 	Results: ['128K', '128 Kbits/sec', '128 Kbits/sec']
+		 	 Results: ['256K', '256 Kbits/sec', '256 Kbits/sec']
+		 	 Results: ['512K', '489 Kbits/sec', '489 Kbits/sec']
+		 	  Results: ['1024K', '487 Kbits/sec', '1.02 Mbits/sec']
+		 	  Results: ['2048K', '487 Kbits/sec', '2.05 Mbits/sec']
+		 	  Results: ['4096K', '487 Kbits/sec', '4.10 Mbits/sec']
+
+
+	3)  Results: ['479 Kbits/sec', '882 Kbits/sec']
+
+		udp
+			Results: ['64K', '64.0 Kbits/sec', '64.0 Kbits/sec']
+			Results: ['128K', '128 Kbits/sec', '128 Kbits/sec']
+			Results: ['256K', '256 Kbits/sec', '256 Kbits/sec']
+			Results: ['512K', '489 Kbits/sec', '489 Kbits/sec']
+			Results: ['1024K', '487 Kbits/sec', '1.02 Mbits/sec']
+			Results: ['2048K', '487 Kbits/sec', '2.05 Mbits/sec']
+			Results: ['4096K', '487 Kbits/sec', '4.10 Mbits/sec']
+
+
+	4)
+		Results: ['958 Kbits/sec', '1.53 Mbits/sec']
+		
+		udp
+			Results: ['64K', '64.0 Kbits/sec', '64.0 Kbits/sec']
+			Results: ['128K', '128 Kbits/sec', '128 Kbits/sec']
+			Results: ['256K', '256 Kbits/sec', '256 Kbits/sec']
+			Results: ['512K', '512 Kbits/sec', '512 Kbits/sec']
+			Results: ['1024K', '975 Kbits/sec', '975 Kbits/sec']
+			Results: ['2048K', '974 Kbits/sec', '2.05 Mbits/sec']
+			Results: ['4096K', '973 Kbits/sec', '4.10 Mbits/sec']
+
+
+	5)	
+		Results: ['958 Kbits/sec', '1.51 Mbits/sec']
+
+		udp
+			Results: ['64K', '64.0 Kbits/sec', '64.0 Kbits/sec']
+			Results: ['128K', '128 Kbits/sec', '128 Kbits/sec']
+			Results: ['256K', '256 Kbits/sec', '256 Kbits/sec']
+			Results: ['512K', '512 Kbits/sec', '512 Kbits/sec']
+			Results: ['1024K', '975 Kbits/sec', '975 Kbits/sec']
+			Results: ['2048K', '974 Kbits/sec', '2.05 Mbits/sec']
+			Results: ['4096K', '973 Kbits/sec', '4.10 Mbits/sec']
+
+	
+
+	6)
+
+		 Iperf: testing TCP bandwidth between h1 and h2 
+		*** Results: ['948 Kbits/sec', '1.68 Mbits/sec']
+		*** Iperf: testing UDP bandwidth between h1 and h2 
+		*** Results: ['64K', '64.0 Kbits/sec', '64.0 Kbits/sec']
+		*** Iperf: testing UDP bandwidth between h1 and h2 
+		*** Results: ['128K', '128 Kbits/sec', '128 Kbits/sec']
+		*** Iperf: testing UDP bandwidth between h1 and h2 
+		*** Results: ['256K', '256 Kbits/sec', '256 Kbits/sec']
+		*** Iperf: testing UDP bandwidth between h1 and h2 
+		*** Results: ['512K', '512 Kbits/sec', '512 Kbits/sec']
+		*** Iperf: testing UDP bandwidth between h1 and h2 
+		*** Results: ['1024K', '975 Kbits/sec', '975 Kbits/sec']
+		*** Iperf: testing UDP bandwidth between h1 and h2 
+		*** Results: ['2048K', '974 Kbits/sec', '2.05 Mbits/sec']
+		*** Iperf: testing UDP bandwidth between h1 and h2 
+		*** Results: ['4096K', '973 Kbits/sec', '4.10 Mbits/sec']
+
+
+	7)
+			Iperf: testing TCP bandwidth between h1 and h2 
+*** Results: ['1.91 Mbits/sec', '2.69 Mbits/sec']
+*** Iperf: testing UDP bandwidth between h1 and h2 
+*** Results: ['64K', '64.0 Kbits/sec', '64.0 Kbits/sec']
+*** Iperf: testing UDP bandwidth between h1 and h2 
+*** Results: ['128K', '128 Kbits/sec', '128 Kbits/sec']
+*** Iperf: testing UDP bandwidth between h1 and h2 
+*** Results: ['256K', '256 Kbits/sec', '256 Kbits/sec']
+*** Iperf: testing UDP bandwidth between h1 and h2 
+*** Results: ['512K', '512 Kbits/sec', '512 Kbits/sec']
+*** Iperf: testing UDP bandwidth between h1 and h2 
+*** Results: ['1024K', '1.02 Mbits/sec', '1.02 Mbits/sec']
+*** Iperf: testing UDP bandwidth between h1 and h2 
+*** Results: ['2048K', '1.95 Mbits/sec', '1.95 Mbits/sec']
+*** Iperf: testing UDP bandwidth between h1 and h2 
+*** Results: ['4096K', '1.95 Mbits/sec', '4.10 Mbits/sec']
+
+
+
+
+	8)
+		Iperf: testing TCP bandwidth between h1 and h2 
+*** Results: ['1.91 Mbits/sec', '2.68 Mbits/sec']
+*** Iperf: testing UDP bandwidth between h1 and h2 
+*** Results: ['64K', '64.0 Kbits/sec', '64.0 Kbits/sec']
+*** Iperf: testing UDP bandwidth between h1 and h2 
+*** Results: ['128K', '128 Kbits/sec', '128 Kbits/sec']
+*** Iperf: testing UDP bandwidth between h1 and h2 
+*** Results: ['256K', '256 Kbits/sec', '256 Kbits/sec']
+*** Iperf: testing UDP bandwidth between h1 and h2 
+*** Results: ['512K', '512 Kbits/sec', '512 Kbits/sec']
+*** Iperf: testing UDP bandwidth between h1 and h2 
+*** Results: ['1024K', '1.02 Mbits/sec', '1.02 Mbits/sec']
+*** Iperf: testing UDP bandwidth between h1 and h2 
+*** Results: ['2048K', '1.95 Mbits/sec', '1.95 Mbits/sec']
+*** Iperf: testing UDP bandwidth between h1 and h2 
+*** Results: ['4096K', '1.95 Mbits/sec', '4.10 Mbits/sec']
+
+
+
+	9)
+			Iperf: testing TCP bandwidth between h1 and h2 
+*** Results: ['1.86 Mbits/sec', '2.82 Mbits/sec']
+*** Iperf: testing UDP bandwidth between h1 and h2 
+*** Results: ['64K', '64.0 Kbits/sec', '64.0 Kbits/sec']
+*** Iperf: testing UDP bandwidth between h1 and h2 
+*** Results: ['128K', '128 Kbits/sec', '128 Kbits/sec']
+*** Iperf: testing UDP bandwidth between h1 and h2 
+*** Results: ['256K', '256 Kbits/sec', '256 Kbits/sec']
+*** Iperf: testing UDP bandwidth between h1 and h2 
+*** Results: ['512K', '512 Kbits/sec', '512 Kbits/sec']
+*** Iperf: testing UDP bandwidth between h1 and h2 
+*** Results: ['1024K', '1.02 Mbits/sec', '1.02 Mbits/sec']
+*** Iperf: testing UDP bandwidth between h1 and h2 
+*** Results: ['2048K', '1.95 Mbits/sec', '1.95 Mbits/sec']
+*** Iperf: testing UDP bandwidth between h1 and h2 
+*** Results: ['4096K', '1.95 Mbits/sec', '4.10 Mbits/sec']
+
+
+
+
+
+3)
+
+	1)
+		*** Creating network
+	*** Adding controller
+*** Adding hosts:
+h1 h2 
+*** Adding switches:
+s1 s2 
+*** Adding links:
+(3.00Mbit 1ms delay 1% loss) (3.00Mbit 1ms delay 1% loss) (h1, s1) (3.00Mbit 1ms delay 1% loss) (3.00Mbit 1ms delay 1% loss) (h2, s2) (1.00Mbit 1ms delay 1% loss) (1.00Mbit 1ms delay 1% loss) (s1, s2) 
+*** Configuring hosts
+h1 h2 
+*** Starting controller
+c0 
+*** Starting 2 switches
+s1 s2 ...(3.00Mbit 1ms delay 1% loss) (1.00Mbit 1ms delay 1% loss) (3.00Mbit 1ms delay 1% loss) (1.00Mbit 1ms delay 1% loss) 
+*** Starting CLI:
+*** Iperf: testing TCP bandwidth between h1 and h2 
+*** Results: ['951 Kbits/sec', '1.18 Mbits/sec']
+*** Iperf: testing UDP bandwidth between h1 and h2 
+*** Results: ['64K', '64.0 Kbits/sec', '64.0 Kbits/sec']
+*** Iperf: testing UDP bandwidth between h1 and h2 
+*** Results: ['128K', '123 Kbits/sec', '123 Kbits/sec']
+*** Iperf: testing UDP bandwidth between h1 and h2 
+*** Results: ['256K', '249 Kbits/sec', '249 Kbits/sec']
+*** Iperf: testing UDP bandwidth between h1 and h2 
+*** Results: ['512K', '496 Kbits/sec', '496 Kbits/sec']
+*** Iperf: testing UDP bandwidth between h1 and h2 
+*** Results: ['1024K', '973 Kbits/sec', '973 Kbits/sec']
+*** Iperf: testing UDP bandwidth between h1 and h2 
+*** Results: ['2048K', '958 Kbits/sec', '2.05 Mbits/sec']
+*** Iperf: testing UDP bandwidth between h1 and h2 
+*** Results: ['4096K', '967 Kbits/sec', '4.10 Mbits/sec']
+
+
+	2)
+
+
+	*** Creating network
+*** Adding controller
+*** Adding hosts:
+h1 h2 
+*** Adding switches:
+s1 s2 
+*** Adding links:
+(3.00Mbit 1ms delay 1% loss) (3.00Mbit 1ms delay 1% loss) (h1, s1) (3.00Mbit 1ms delay 1% loss) (3.00Mbit 1ms delay 1% loss) (h2, s2) (1.00Mbit 1ms delay 3% loss) (1.00Mbit 1ms delay 3% loss) (s1, s2) 
+*** Configuring hosts
+h1 h2 
+*** Starting controller
+c0 
+*** Starting 2 switches
+s1 s2 ...(3.00Mbit 1ms delay 1% loss) (1.00Mbit 1ms delay 3% loss) (3.00Mbit 1ms delay 1% loss) (1.00Mbit 1ms delay 3% loss) 
+*** Starting CLI:
+*** Iperf: testing TCP bandwidth between h1 and h2 
+*** Results: ['934 Kbits/sec', '1.23 Mbits/sec']
+*** Iperf: testing UDP bandwidth between h1 and h2 
+*** Results: ['64K', '64.0 Kbits/sec', '64.0 Kbits/sec']
+*** Iperf: testing UDP bandwidth between h1 and h2 
+*** Results: ['128K', '117 Kbits/sec', '117 Kbits/sec']
+*** Iperf: testing UDP bandwidth between h1 and h2 
+*** Results: ['256K', '226 Kbits/sec', '226 Kbits/sec']
+*** Iperf: testing UDP bandwidth between h1 and h2 
+*** Results: ['512K', '479 Kbits/sec', '479 Kbits/sec']
+*** Iperf: testing UDP bandwidth between h1 and h2 
+*** Results: ['1024K', '967 Kbits/sec', '967 Kbits/sec']
+*** Iperf: testing UDP bandwidth between h1 and h2 
+*** Results: ['2048K', '972 Kbits/sec', '2.05 Mbits/sec']
+*** Iperf: testing UDP bandwidth between h1 and h2 
+*** Results: ['4096K', '963 Kbits/sec', '4.10 Mbits/sec']
+
+
+
+
+3)
+
+	*** Starting 2 switches
+s1 s2 ...(3.00Mbit 1ms delay 1% loss) (1.00Mbit 1ms delay 5% loss) (3.00Mbit 1ms delay 1% loss) (1.00Mbit 1ms delay 5% loss) 
+*** Starting CLI:
+*** Iperf: testing TCP bandwidth between h1 and h2 
+*** Results: ['947 Kbits/sec', '1.07 Mbits/sec']
+*** Iperf: testing UDP bandwidth between h1 and h2 
+*** Results: ['64K', '55.2 Kbits/sec', '55.2 Kbits/sec']
+*** Iperf: testing UDP bandwidth between h1 and h2 
+*** Results: ['128K', '121 Kbits/sec', '121 Kbits/sec']
+*** Iperf: testing UDP bandwidth between h1 and h2 
+*** Results: ['256K', '237 Kbits/sec', '237 Kbits/sec']
+*** Iperf: testing UDP bandwidth between h1 and h2 
+*** Results: ['512K', '470 Kbits/sec', '470 Kbits/sec']
+*** Iperf: testing UDP bandwidth between h1 and h2 
+*** Results: ['1024K', '938 Kbits/sec', '938 Kbits/sec']
+*** Iperf: testing UDP bandwidth between h1 and h2 
+*** Results: ['2048K', '964 Kbits/sec', '2.05 Mbits/sec']
+*** Iperf: testing UDP bandwidth between h1 and h2 
+*** Results: ['4096K', '967 Kbits/sec', '4.10 Mbits/sec']
+
+
+
+4)
+	*** Starting 2 switches
+	s1 s2 ...(3.00Mbit 1ms delay 1% loss) (1.00Mbit 1ms delay 10% loss) (3.00Mbit 1ms delay 1% loss) (1.00Mbit 1ms delay 10% loss) 
+	*** Starting CLI:
+	*** Iperf: testing TCP bandwidth between h1 and h2 
+	*** Results: ['563 Kbits/sec', '732 Kbits/sec']
+	*** Iperf: testing UDP bandwidth between h1 and h2 
+	*** Results: ['64K', '59.4 Kbits/sec', '59.4 Kbits/sec']
+	*** Iperf: testing UDP bandwidth between h1 and h2 
+	*** Results: ['128K', '116 Kbits/sec', '116 Kbits/sec']
+	*** Iperf: testing UDP bandwidth between h1 and h2 
+	*** Results: ['256K', '221 Kbits/sec', '221 Kbits/sec']
+	*** Iperf: testing UDP bandwidth between h1 and h2 
+	*** Results: ['512K', '417 Kbits/sec', '417 Kbits/sec']
+	*** Iperf: testing UDP bandwidth between h1 and h2 
+	*** Results: ['1024K', '886 Kbits/sec', '886 Kbits/sec']
+	*** Iperf: testing UDP bandwidth between h1 and h2 
+	*** Results: ['2048K', '959 Kbits/sec', '2.05 Mbits/sec']
+	*** Iperf: testing UDP bandwidth between h1 and h2 
+	*** Results: ['4096K', '960 Kbits/sec', '4.10 Mbits/sec']
+
+
+
+5)
+
+	*** Starting 2 switches
+	s1 s2 ...(3.00Mbit 1ms delay 1% loss) (1.00Mbit 1ms delay 15% loss) (3.00Mbit 1ms delay 1% loss) (1.00Mbit 1ms delay 15% loss) 
+	*** Starting CLI:
+	*** Iperf: testing TCP bandwidth between h1 and h2 
+	*** Results: ['190 Kbits/sec', '241 Kbits/sec']
+	*** Iperf: testing UDP bandwidth between h1 and h2 
+	*** Results: ['64K', '53.0 Kbits/sec', '53.0 Kbits/sec']
+	*** Iperf: testing UDP bandwidth between h1 and h2 
+	*** Results: ['128K', '100 Kbits/sec', '100 Kbits/sec']
+	*** Iperf: testing UDP bandwidth between h1 and h2 
+	*** Results: ['256K', '226 Kbits/sec', '226 Kbits/sec']
+	*** Iperf: testing UDP bandwidth between h1 and h2 
+	*** Results: ['512K', '442 Kbits/sec', '442 Kbits/sec']
+	*** Iperf: testing UDP bandwidth between h1 and h2 
+	*** Results: ['1024K', '856 Kbits/sec', '856 Kbits/sec']
+	*** Iperf: testing UDP bandwidth between h1 and h2 
+	*** Results: ['2048K', '959 Kbits/sec', '2.05 Mbits/sec']
+	*** Iperf: testing UDP bandwidth between h1 and h2 
+	*** Results: ['4096K', '964 Kbits/sec', '4.10 Mbits/sec']
+
+
+
