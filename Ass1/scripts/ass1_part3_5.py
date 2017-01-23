@@ -15,8 +15,8 @@ class MyTopo( Topo ):
         h2host=self.addHost('h2')
         s1switch=self.addSwitch('s1')
         s2switch=self.addSwitch('s2')
-        self.addLink(h1host,s1switch,bw=3,delay='1ms',loss=1)
-        self.addLink(h2host,s2switch,bw=3,delay='1ms',loss=1)
+        self.addLink(h1host,s1switch,bw=1,delay='1ms',loss=1)
+        self.addLink(h2host,s2switch,bw=1,delay='1ms',loss=1)
         self.addLink(s1switch,s2switch,bw=1,delay='1ms',loss=15)
 
         
