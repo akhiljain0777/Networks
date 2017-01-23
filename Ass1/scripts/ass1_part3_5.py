@@ -9,8 +9,6 @@ class MyTopo( Topo ):
     
     def __init__( self ):
         Topo.__init__( self )
-        bandWidth=[0.512,1,2]
-        DELAYS=['1ms','10ms','100ms']
         h1host=self.addHost('h1')
         h2host=self.addHost('h2')
         s1switch=self.addSwitch('s1')
