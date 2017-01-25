@@ -1,9 +1,0 @@
-iperf h1 h2
-iperfudp 64K h1 h2
-iperfudp 128K h1 h2
-iperfudp 256K h1 h2
-iperfudp 512K h1 h2
-iperfudp 1024K h1 h2
-iperfudp 2048K h1 h2
-iperfudp 4096K h1 h2
-
